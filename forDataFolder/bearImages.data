@@ -1,0 +1,5 @@
+classes=1
+train=data/trainBear.txt
+valid=data/testBear.txt
+names=data/bearImages.names
+

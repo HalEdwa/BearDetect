@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Screen Shot 2019-11-08 at 1.42.01 pm.png</filename>
+	<path>/Users/admin/Desktop/Higher Bear Images/Images/Screen Shot 2019-11-08 at 1.42.01 pm.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1716</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>315</ymin>
+			<xmax>741</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
